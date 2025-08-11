@@ -1,0 +1,6 @@
+# Application-level permissions
+
+[]
+access = read : [ admin, team-wmbc-lead, power ], write : [ admin, team-wmbc-lead, power ]
+export = none
+owner = admin

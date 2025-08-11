@@ -1,8 +1,6 @@
-
 # splunk-wmbc-restricted-app
-
-This is a placeholder README.md for a new repository
-
-### License
-
-This code is open source software licensed under the [Apache 2.0 License]("http://www.apache.org/licenses/LICENSE-2.0.html").
+Wealth and Mid-sized Business Compliance - restricted
+## App owner
+This app is owned by CIP Experience Team
+## App access permission owner
+If you want have access to this app, please contact CIP Experience Team
