@@ -1,0 +1,50 @@
+<dashboard version="1.1" theme="light">
+  <label>Welcome to the Wealth and Mid-sized Business Compliance - restricted</label>
+
+  <row>
+    <panel id="panelinfo">
+      <title>Description</title>
+      <html>
+        <div style="margin-top:10px;margin-bottom:10px;font-size:16px;">
+          <p>Wealth and Mid-sized Business Compliance - restricted</p>
+        </div>
+      </html>
+    </panel>
+  </row>
+
+  <row>
+    <panel id="panellock">
+      <title>Can I modify this app via the UI?</title>
+      <html>
+        <div style="margin-top:10px;margin-bottom:10px;font-size:16px;">
+          <p>Yes. While this app can be maintained via GitHub, if you modify the app in the UI - for example, by creating a new dashboard or report - the changes will be saved locally in Splunk.</p>
+          <p>These changes can be added to the GitHub repo, but will not be overwritten by any future deployment of this app.</p>
+          <p>Any content not maintained in the GitHub repo will only be recoverable from the Search Head backups.</p>
+        </div>
+      </html>
+    </panel>
+  </row>
+
+  <row>
+    <panel id="paneldash">
+      <title>How do I view the dashboards</title>
+      <html>
+        <div style="margin-top:10px;margin-bottom:10px;font-size:16px;">
+          <p>Dashboards can be accessed via the "Dashboards" menu in the Splunk app bar.</p>
+        </div>
+      </html>
+    </panel>
+  </row>
+
+  <row>
+    <panel id="panelcontact">
+      <title>Who should I contact for any questions about this app?</title>
+      <html>
+        <div style="margin-top:10px;margin-bottom:10px;font-size:16px;">
+          <p>For any question about this app, please contact the CIP Experience Team</p>
+        </div>
+      </html>
+    </panel>
+  </row>
+
+</dashboard>

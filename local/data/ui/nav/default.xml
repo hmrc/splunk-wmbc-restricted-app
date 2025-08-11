@@ -1,0 +1,9 @@
+<nav search_view="search" color="#008670">
+  <view name="welcome_page_to_wmbc-restricted" default='true' />
+  <collection label="Team Dashboards">
+    <view name="my_dashboard"/>
+  </collection>
+  <view name="search" />
+  <view name="reports" />
+  <view name="dashboards" />
+</nav>
